@@ -1,0 +1,25 @@
+.heading{
+    font-style: italic;
+    font-weight: lighter;
+    background-color: blueviolet;
+    color:aliceblue;
+}
+
+#css1{
+    color:purple;
+    font-weight: 300;
+}
+
+#css2{
+    color:red;
+    font-weight: 400;
+    font-style: oblique;
+}
+
+.heading2{
+    font-stretch: extra-expanded;
+    color: aliceblue;
+    background-color: rgb(38, 33, 33);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
